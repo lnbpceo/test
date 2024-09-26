@@ -36,7 +36,7 @@ getgenv().Config = {
     },
     ["Misc"] = {
         ["Notification Remove"] = true,
-        ["White Screen"] = true,
+        ["White Screen"] = false,
         ["Hop Server"] = true,
         ["Kill Player in First Sea"] = true,
     },
