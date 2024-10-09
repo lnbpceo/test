@@ -8,18 +8,22 @@ getgenv().Config = {
         ["Dragon Talon"] = true,
         ["Godhuman"] = true,
     },
+    
     ["Sword"] = {
         ["Yama"] = true,
         ["Tushita"] = true,
         ["Cursed Dual Katana"] = true,
     },
+    
     ["Gun"] = {
         ["Soul Guitar"] = true,
     },
+    
     ["Fruit"] = {
         ["Random Fruit"] = true,
         ["Store Fruit"] = true,
     },
+    
     ["Quest"] = {
         ["Bartilo Quest"] = true,
         ["Race V2 - V3"] = true,
@@ -27,13 +31,16 @@ getgenv().Config = {
         ["Rainbow Haki"] = true,
         ["Dough Quest"] = true,
     },
+    
     ["Mastery"] = {
         ["Max Skill Sword (if done all items)"] = true,
         ["Max Skill Fruit (if done all items)"] = true,
     },
+    
     ["Material"] = {
         ["Mirror Fractal"] = true,
     },
+    
     ["Misc"] = {
         ["Notification Remove"] = true,
         ["White Screen"] = false,
